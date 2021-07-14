@@ -1,0 +1,10 @@
+Erro no backup de ip - 10.240.101.6:Error reading SSH protocol banner
+Erro no backup de ip - 10.240.101.2:Authentication failed.
+Erro no backup de ip - 10.240.101.19:Error reading SSH protocol banner
+Erro no backup de ip - 10.240.218.26:Authentication failed.
+Erro no backup de ip - 10.240.218.19:Authentication failed.
+Erro no backup de ip - 191.7.196.66:Authentication failed.
+Erro no backup de ip - 10.240.101.34:Error reading SSH protocol banner
+Erro no backup de ip - 191.7.216.80:Authentication failed.
+Erro no backup de ip - 10.240.47.34:Authentication failed.
+Erro no backup de ip - 10.240.218.42:Authentication failed.

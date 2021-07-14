@@ -1,0 +1,151 @@
+OMNITIK_ALTO
+CE-GRJ.ADRI - RET. A (ALG-10A)
+CE-GRJ.STZ - RET. A (ALG-10A)
+CE-GRJ.VEREDA- RET. A (XPS -30A)
+CE-GRJ.TMO - RET. A (ALG-10A)
+ce-grj-stz-e02-acs-bng01
+RB760-ADRIANOPOLIS
+RB2011-MONITORAMENTO
+RB960 - POP
+ENL-S. TEREZINHA-B
+ENL-S. TEREZINHA-A
+RB2011-SANT. TEREZINHA
+Online Granja | Online-5Ghz-StaTerezinha-01
+Online Granja | Online-5Ghz-Sununga
+Onl Granja | Online-5Ghz-Caca-Poeira-TN
+ENL-POSTO K-A
+ENL-POSTO K-B
+Online Granja | Online-5Ghz-Caca Poeira
+ENL-CAÇA POEIRA-A
+ENL-CAÇA POEIRA-B
+RB750-CACA POEIRA
+RB750-CACA POEIRA - TORRE VELHA
+ELN-CAÇA POEIRA A- TORRE VELHA
+ENL-SUNUNGA-A | LHG
+ENL-SUNUNGA-B | LHG
+RB750-SUNUNGA
+ENL-PAULA PESSOA-B
+ENL-PAULA PESSOA-A
+RB3011 - PAULO PESSOA
+Online Granja | Online-5Ghz-P-Pessoa
+Online Granja | Online-5Ghz-P-Pessoa-02
+ENL-CORREGO DO LINO-A
+ENL-CORREGO DO LINO-B
+Online Granja | Online-5Ghz-CorregoDoLino
+ELN-CAÇA POEIRA B- TORRE VELHA
+Online Granja | Online-5Ghz-Ibuacu-01
+ENL-BREJO-A
+ENL-BREJO-B
+Online Granja | Online-5Ghz-Brejo-01
+RB750-BREJO
+ENL-IBUAÇU-A
+ENL-IBUAÇU-B
+RB750-IBUACU
+Online Granja | Online-5Ghz-Ibuacu-02
+Online Granja | Online-5Ghz-Ibuacu-03
+Online Granja | Online-5Ghz-Posto-02
+Brasilink Granja | Brasilink-5Ghz-Granja-10
+ENL-ARATAIN-A
+ENL-ARATAIN-B
+Online Granja | Online-5Ghz-Aratain-01
+RB750-CORREGO DO LINO
+Online Granja | Online-5Ghz-Corrego do Lino-02
+Online Granja | Online-5Ghz-CorregoDoLino-03
+RB750-ALTO DERT
+Online Granja | Online-5Ghz-Brejo-02
+Sununga </> Boa Vista
+Boa Vista </> Sununga
+Online Granja | Online-5.8Ghz-Boa-Vista
+BaseBox Online-5Ghz-P-Pessoa 03
+Baixa do Cedro Lado A
+Baixa do Cedro Lado B
+PREFEITURA DE GRANJA
+SW-PREFEITURA
+Online Granja | Online-5Ghz-Baixa do Cedro
+RB3011-ESTREITO
+PTP-COMERCIO CHICO J
+Online Granja | Online-5Ghz-Estreito-01
+Online Granja | Online-5Ghz-Estreito-02
+ENL-UBATUBA-A
+ENL-UBATUBA-B
+RB2011-UBATUBA
+Online Granja | Online-5Ghz-Ubatuba-01
+Online Granja | Online-5Ghz-Ubatuba-02
+Online Granja | Online-5Ghz-Estreito-04
+Online Granja | Online-5Ghz-Estreito-05
+Onl Granja | Online-5Ghz-Estreito-06
+ENL-MALHADA REAL-A
+ENL-MALHADA REAL-B
+Online Granja | Online-5ghz-Malhada-Real
+RB2011-AROEIRA
+Online Granja | Online-5Ghz-Aroeira-02
+Onl Granja | Online-5Ghz-Agrovila-03
+ENL-AGROVILA-B
+ENL-AGROVILA-A
+RB750-AGROVILA
+ENL-POVOADO-A
+ENL-POVOADO-B
+Online Granja | Online-5Ghz-Povoado
+ENL-PRIVAR-A
+ENL-PRIVAR-B
+RB2011-PRIVAR
+Online Granja | Online-5Ghz-Privar-01
+ENL-ALEGRE-A
+ENL-ALEGRE-B
+RB750-ALEGRE
+Online Granja | Online-5Ghz-Alegre-01
+Online Granja | Online-5Ghz-Alegre 02
+PTP- DR. HERBERT-A
+ENL-SEDUC-PARAZINHO-A | WLK
+ENL-SEDUC-PARAZINHO-B | WLK
+ENL-PARAZINHO-A
+ENL-PARAZINHO-B
+Online Granja | Online-5Ghz-Parazinho-01 - vlan54
+ENL-GURIU-A
+ENL-GURIU-B
+RB750 - GURIU
+Onl Granja | Online-5Ghz-Agrovila-02
+Onl Granja | Online-5Ghz-Agrovila-01
+CE-GRJ-E01-ACS-OLT001
+CE-GRJ-STZA-E02-ACS-OLT001
+CE-ADRI-E04-ACS-OLT001
+CE-GRJ-TMO-E03-ACS-OLT001
+Online Granja | Online-5Ghz-Pitbull
+ce-grj-stz-e02-asc-sw01
+Online Granja | Online-5Ghz-Pitbull-04
+ce-grj-stz-e02-acs-monitor01
+ENL-COCAL-A
+ENL-COCAL-B
+Online Granja | Online-5Ghz-Cocal-01
+ENL-ANGELIM-A
+ENL-ANGELIM-B
+RB750-ANGELIM
+Online Granja | Online-5Ghz-Assentamento
+RB3011-MONITORAMENTO VEREDA
+RB3011-TIMONHA
+RB760-MONIT. POP TIMONHA
+RB750-POSTE VEREDA
+Online Granja | Online-5.8Ghz-PosteVereda-01
+RB750-CAJUEIRO
+RB 750 - Assentamento
+Online Granja | Online-5Ghz-Cajueiro-02
+Online Granja | Online-5Ghz-Cajueiro-01
+Online Granja | Online-5Ghz-Cajueiro-04
+Online Granja | Online-5Ghz-Cajueiro-03
+Online Granja | Online-5.8Ghz-Angelim
+Online Granja | Online-5Ghz-Angelim-03
+Online Granja | Online-5Ghz-Angelim-02
+ENL-ASSENTAMENTO-SAMBAIBA-A
+ENL-ASSENTAMENTO-SAMBAIBA-B
+RB750-SAMBAIBA
+Online Granja | Online-5Ghz-Sambaiba-01
+Online Granja | Online-5Ghz-Sambaiba-02
+Online Granja | Online-5Ghz-Sambaiba-03
+CE-GRJ-E01-ACS-BNG01.ONLINE.NET.BR
+CE-VCS-E01-ACS-BNG01.ONLINE.NET.BR
+CE-GRJ-ARO-E01-ACS-BNG01.ONLINE.NET.BR
+RB2011 - Torre do CAF
+GRANIME - EVENTO
+Sec Saude
+CE-GRJ-STZ-E02-ACS-BNG02.ONLINE.NET.BR
+CE-GRJ-E01-ACS-CGNAT01
