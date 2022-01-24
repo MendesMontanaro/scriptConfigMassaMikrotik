@@ -15,8 +15,8 @@ ipdevice = input("Digite o ip da RB: ")
 hostname = input("Digite o Hostname da RB: ")
 device = input("Digite o device da RB: ")
 accessportSSH = input("Digite a porta de acesso SSH da RB: ")
-login = 'backup'
-passwd = '@nl1n3Ba'
+login = 'user'
+passwd = 'pass'
 accessportFTP = 21
 
 def single_backup():
