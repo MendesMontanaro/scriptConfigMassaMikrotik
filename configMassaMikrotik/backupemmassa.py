@@ -15,8 +15,8 @@ iplist = []
 hostnamelist = []
 devicelist = []
 timelist = []
-login = 'dude.online'
-passwd = '@ddonl1n3'
+login = 'user'
+passwd = 'pass'
 errobackup = "none"
 
 class TimeoutException(Exception):
@@ -49,7 +49,7 @@ def backup_mass():
             comment = "PROCESSO DE REALIZAÇÃO DO BACKUP: DO HOST DE IP: "+iplist[line]
             print(comment)
             ssh.connect(iplist[line], username=login, password=passwd, port=accessport, look_for_keys=False, allow_agent=False)
-            stdin, stdout, stderr = ssh.exec_command("user add name=@online password=0nl1n3505501 group=full")
+            stdin, stdout, stderr = ssh.exec_command("user add name=user password=pass group=full")
             time.sleep(2)
             print("Aguardando...")
             resultadoCriarUsuario = stdout.read()
